@@ -11,17 +11,17 @@ The entry has exactly two parts and nothing else:
 The confession is addressed to the person the writer most fears
 disappointing: the professor who believed in them enough to write
 their recommendation letter. The big win -- the scholarship -- was
-luck: three guessed answers on the exam. The reason it stayed in
-drafts is inside the message itself: four typed drafts, four
-deletions, because telling the truth means watching that belief
-break.
+luck: three guessed answers, C, B, A, on the last questions of the
+exam. The reason it stayed in drafts is inside the message itself:
+four typed drafts, four deletions, because telling the truth means
+watching that belief break.
 """
 
 import os
 
 ENTRY = (
     "To: the professor who wrote my recommendation letter\n"
-    "I guessed the last three answers on the exam that won me the "
+    "I guessed C, B, A on the last three questions of the exam that won me the "
     "scholarship, and I have typed this to you four times and deleted "
     "it every time because I am afraid of the look on your face when "
     "you learn I am not the student you think I am.\n"
